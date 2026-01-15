@@ -1,0 +1,5 @@
+{
+  "name": "Cb Cards",
+  "description": "A digital card game where users can create, collect, and redeem unique cards. Features include card creation, rarity-based random card generation, a personal deck, and a reward system based on collected cards.",
+  "requestFramePermissions": []
+}
